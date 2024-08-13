@@ -40,9 +40,9 @@ ul {
   padding: 0 1rem;
 }
 
-.site-footer {
+/* .site-footer {
   grid-area: footer;
-}
+} */
 
 /* Hero */
 .hero-text {
@@ -145,13 +145,13 @@ section {
 }
 
 /* footer */
-.site-footer {
+/* .site-footer {
   display: flex;
   align-items: center;
   justify-content: space-between;
   background-color: #8080805e;
   padding: 2rem;
-}
+} */
 
 /* media query */
 
@@ -206,8 +206,8 @@ section {
   .recommend {
     grid-area: card3;
   }
-  .site-footer {
+  /* .site-footer {
     margin: 0 1rem;
     border-radius: 1rem;
-  }
+  } */
 }

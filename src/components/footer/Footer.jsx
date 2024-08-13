@@ -1,3 +1,5 @@
+import './Footer.css';
+
 const footerArray = [
     'Facebook',
     'Instagram',
