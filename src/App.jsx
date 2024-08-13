@@ -1,7 +1,6 @@
 import Header from "./components/header/Header";
 import Main from "./components/main/Main";
 import Footer from "./components/footer/Footer";
-import Footerlist from "./components/footer/Footer";
 
 function App() {
   return (
@@ -10,9 +9,8 @@ function App() {
 
       <main className="site-main">
         <Main />
-      
       </main>
-      <Footerlist />
+      <Footer />
     </div>
   );
 }
